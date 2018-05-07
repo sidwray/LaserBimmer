@@ -6,6 +6,8 @@
 
  From: https://www.arduino.cc/en/Tutorial/Datalogger
 
+ This is a simple test of checking in changes. 
+
  The circuit:
  * analog sensors on analog ins 0, 1, and 2
  * SD card attached to SPI bus as follows:
